@@ -22,7 +22,6 @@ This project is a clone of the Airbnb website, created to showcase my developmen
 
 - Node.js
 - Express
-- 
 - MongoDB
 - Mapbox
 
@@ -33,7 +32,7 @@ To get started with this project, follow these steps:
 ## 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Shinan007/airbnb-clone.git
+   git clone https://github.com/Shinan007/Airbnb.git
    ```
    
 
